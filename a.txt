@@ -1,4 +1,8 @@
 absu kaijd
 lskldksdo
 okook
+<<<<<<< HEAD
 machine
+=======
+github
+>>>>>>> 492bc1fdf241f44124199b28f8920cc25706ab9e
